@@ -2,6 +2,7 @@
 
 Deep Stacked Stateful and Stateless LSTM Recurrent Neural Network for Time Series Forecasting 
 
+Class Project Code - CSC578
 In this study we explore how the newly developed deep learning-based algorithms for forecasting time series data, such as "Long Short-Term Memory (LSTM)", performs on the time series data forecast.
 This paper aims to compare different stateful and stateless LSTM models applied to weather time series data. Specifically, we study the effect of stateless and stateful techniques in choosing the different number of hidden layers in the models, namely the depth of the neural network and the number of units per each layer. We show how the different parameters have different impacts on the prediction performance by calculating RMSE and SMAPE for each model. In addition, the paired t-test was performed to compare the two set of RMSE observations coming from different models. Our experimental results show that the stateful model with 2 layers and 32 units demonstrates the best performance. 
 
